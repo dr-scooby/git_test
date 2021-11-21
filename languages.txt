@@ -1,0 +1,10 @@
+java
+pyton
+c
+c++
+VB
+rust
+ruby
+basic
+pascal
+cobol
